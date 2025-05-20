@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Predictive Maintenance for Autonomous Vehicles – A data analytics project that explores sensor data to prevent failures in self-driving systems using descriptive, diagnostic, predictive, and prescriptive analysis.**
 
-- 🌱 I’m currently learning **DSA, Data Analytics, and Machine Learning**
+- 🌱 I’m currently learning **DSA, and Data Analytics**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects – Especially in predictive analytics**
 
