@@ -1,38 +1,66 @@
-<h1 align="center">Hi 👋, I'm Sanjay Balasubramanian — A Curious Explorer in Tech & Innovation!</h1>
-<h3 align="center">🚀 B.Tech Mechanical Engineering Student | Aspiring Data Analyst | Turning Ideas into Impactful Projects</h3>
+<h1 align="center">Hi 👋, I'm Sanjay B</h1>
+<h3 align="center">🤖 Robotics Software Engineer in the making | Mechanical Engineering @ NIT Andhra Pradesh | Exchange Student @ IIT Madras</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-3011&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-3011" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjay-3011" alt="sanjay-3011" /></a> </p>
-
-- 🔭 I’m currently working on **Predictive Maintenance for Autonomous Vehicles – A data analytics project that explores sensor data to prevent failures in self-driving systems using descriptive, diagnostic, predictive, and prescriptive analysis.**
-
-- 🌱 I’m currently learning **DSA, and Data Analytics**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects – Especially in predictive analytics**
-
-- 🤝 I’m looking for help with **Signal Processing for AI – Especially for automotive applications**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sanjay-3011](https://github.com/Sanjay-3011)
-
-- 💬 Ask me about **Python, Flask, Git, Agile project handling, and real-world integration**
-
-- 📫 How to reach me **sanjsanj3114@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MeXbF69or4bo-3VhkdE3jtYnQ9L1KqV5/view?usp=sharing](https://drive.google.com/file/d/1MeXbF69or4bo-3VhkdE3jtYnQ9L1KqV5/view?usp=sharing)
-
-- ⚡ Fun fact **🤖 I’m probably the only mechie in my class who talks more about data analytics than design of machine elements.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjaybalasubramanian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjaybalasubramanian/" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-3011&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 😁 About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay-3011&show_icons=true&locale=en&layout=compact" alt="sanjay-3011" /></p>
+Final-year Mechanical Engineering student building robotics software across **perception, localization, mapping, and navigation**. I work mostly in **ROS2 (C++ / Python)** and care about clean, testable, well-documented code. Currently on an exchange programme at **IIT Madras (Dept. of Engineering Design)**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay-3011&show_icons=true&locale=en" alt="sanjay-3011" /></p>
+## 🛠️ Featured projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-3011&" alt="sanjay-3011" /></p>
+| Project | What it does | Stack |
+|---|---|---|
+| **LunaBot** | Autonomous rover for GPS-denied lunar navigation: SLAM, EKF sensor fusion (3D LiDAR, RGB-D, IMU, wheel encoders), A* + DWA planning, Nav2 waypoint patrol. Over 95% task completion in Gazebo on NASA LRO LOLA terrain. | ROS2, Nav2, SLAM Toolbox, Gazebo, RViz, Python |
+| **LunarISRU** | Extends LunaBot with a lunar water-ice extraction and H₂/O₂ propellant payload, validated through live ROS2 telemetry and a Chandrayaan-3 ice-dataset heatmap in RViz. | ROS2, Nav2, SLAM Toolbox, Gazebo, RViz, Python |
+| **ACT Visuomotor Policy** | End-to-end imitation learning from vision to physical placement. | Python, Rviz, PyTorch, Transformers, CVAE |
+
+👉 More at [github.com/Sanjay-3011](https://github.com/Sanjay-3011)
+
+## 🧰 Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-4B8BBE?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+- **Navigation & Localization:** SLAM Toolbox, Nav2, A*, DWA, EKF (robot_localization)
+- **Perception & Sensors:** 2D/3D LiDAR, RGB-D camera, IMU, OpenCV, PCL
+- **Simulation:** Gazebo, CoppeliaSim, RViz
+- **CAD / Analysis:** SolidWorks (incl. FEA), Creo, AutoCAD
+
+## 🏆 Achievements
+
+- 🥇 **OkCredit Future Founders Internship 2026** – 1st Prize (CART EL: AI-powered merchant intelligence dashboard for kirana stores)
+- 🥉 **Vision X National Level Hackathon 2026** – 2nd Runnerup (Autonomous lunar water-ice extraction and propellant generation)
+- 🥉 **Smart India Hackathon 2025** – 3rd Prize (ISRO problem statement: autonomous navigation of a robot for lunar habitats)
+
+## 🌱 Currently
+
+- Learning: visuomotor / imitation-learning policies and production-grade ROS2 software for legged and humanoid platforms
+- Looking to collaborate on: **robot perception, navigation, and learning-based manipulation**
+- Ask me about: **ROS2, SLAM, sensor fusion, Nav2, and getting a mechanical engineer into robotics software**
+
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjaybalasubramanian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sanjsanj3114@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjay-3011&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-3011&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">⚡ <i>Mechanical by degree, robotics by obsession.</i></p>
